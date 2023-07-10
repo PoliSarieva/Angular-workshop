@@ -1,4 +1,7 @@
-
+.welcome-comp {
+    width: 80%;
+    margin: 0 auto;
+}
 
 /* theme list item */
 
@@ -29,6 +32,8 @@
 
 .theme-title {
     padding: 0;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .theme-name {
